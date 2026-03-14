@@ -1,0 +1,13 @@
+Dataset shape: 1000 rows x 9 columns
+Columns:
+- Transaction ID (int64) | missing: 0
+- Date (object) | missing: 0
+- Customer ID (object) | missing: 0
+- Gender (object) | missing: 0
+- Age (int64) | missing: 0
+- Product Category (object) | missing: 0
+- Quantity (int64) | missing: 0
+- Price per Unit (int64) | missing: 0
+- Total Amount (int64) | missing: 0
+
+Total sales (Total Amount): 456,000.00

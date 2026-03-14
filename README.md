@@ -95,17 +95,4 @@ jupyter notebook notebooks/retail_sales_analysis.ipynb
 python scripts/generate_visualizations.py
 ```
 
-## GitHub Upload
-After unzipping the project, push it to GitHub with:
 
-```bash
-git init
-git add .
-git commit -m "Add retail sales analytics portfolio project"
-git branch -M main
-git remote add origin https://github.com/YOURUSERNAME/retail-sales-analytics-project.git
-git push -u origin main
-```
-
-## Portfolio Positioning
-This project is suitable for a **Data Analyst** portfolio because it emphasizes data preparation, visual analysis, and business-oriented interpretation rather than only model building.
